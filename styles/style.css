@@ -21,15 +21,40 @@
     font-size: 32px;
     color: #FFFFFF;
     text-align: center;
-    /* margin-top: 150px; */
-    /* padding-top: 150px; */
-    
 }
 .banar-title{
     font-size: 72px;
     font-weight: bolder;
     text-align: center;
     color: #FFFFFF;
-    /* margin-top: 200px; */
-    /* padding-top: 200px; */
+}
+   /* discount section */
+
+.discount{
+    text-align: center;
+    margin-top: 50px;
+}    
+.off-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    padding-bottom: 30px;
+}
+.off-para{
+    font-size: 20px;
+    font-weight: 600;
+    color: #FF0000;
+    padding-bottom: 10px;
+}
+
+.discount img{
+    height: 400px;
+    background-size: contain;
+}
+
+.off-subtitle{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 30px;
+
 }
