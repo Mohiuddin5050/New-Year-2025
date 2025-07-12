@@ -56,5 +56,43 @@
     font-size: 40px;
     font-weight: bold;
     padding-bottom: 30px;
+}
 
+.bg-banaar{
+    background-image: url('../images/Vectorrr.png');
+     background-repeat: no-repeat;
+   height: 600px;
+   background-position: center;
+   background-size: contain;
+}
+.bg-banaar-title{
+    font-size: 80px;
+    font-weight: bolder;
+    color: #FFFFFF;
+    padding-left: 110px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.bg-banar-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bg-banaar-p{
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-left: 110px;
+    
+}
+.bg-banaar-b{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 120px;
+    padding-top: 50px;
+    
+}
+.bg-banar-content img{
+    padding-top: 60px;
+    padding-right: 100px;
 }
